@@ -6,4 +6,13 @@
 
 .para1 {
     font-size: large;
+    color: blue;
+}
+
+#svg{
+    padding-top: 20px;
+    size: 500px;
+}
+.reactlogo{
+    padding-top: 20px
 }
