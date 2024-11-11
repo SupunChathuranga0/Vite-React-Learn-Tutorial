@@ -8,7 +8,7 @@ function BodyContent(props) {
     // </div>
 <>
     <div className='content'>
-      <h3>Main Content</h3>
+      {/* <h3>Main Content</h3> */}
       {props.children}
     </div>
     </>

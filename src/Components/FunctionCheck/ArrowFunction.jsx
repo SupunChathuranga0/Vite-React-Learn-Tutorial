@@ -17,7 +17,7 @@ function ArrowFunction() {
     const ArrowFunction2 = (name,e) => {
         console.log('ArrowFunction2 '+name,e);
 }
-    
+       
   return (
     <>
     <div>

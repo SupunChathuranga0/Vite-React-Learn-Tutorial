@@ -1,14 +1,15 @@
 import './App.css'
-import CssPractise from './Components/CssCheck/CssPractise';
-import ArrowFunction from './Components/FunctionCheck/ArrowFunction';
-import Lastcode from './Components/Oldcode/lastcode';
+import HeaderContent from './Components/HeaderContent/HeaderContent';
+import ReactRoot from './Components/ReactRoot/ReactRoot';
+
 
 
 function App() {
    
   return (
     <>
-    <ArrowFunction/>
+    <ReactRoot/>
+
       </>
   )
 }
