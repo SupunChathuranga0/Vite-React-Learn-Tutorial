@@ -7,12 +7,10 @@ function ReactRoot() {
   return (
     <>
     <div>
-
     <HeaderContent/>
     <BodyContent>
         <h3>Home page</h3>
     </BodyContent>
-
     </div>
     </>
 
