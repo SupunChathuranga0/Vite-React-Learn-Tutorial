@@ -1,10 +1,11 @@
 import './App.css'
-import Operator from './Components/Operators/Operator.jsx';
+// import Operator from './Components/Operators/Operator.jsx';
 
-import Usestate from './Components/ReactHooks/Usestate.jsx'
-import ReactRoot from './Components/ReactRoot/ReactRoot';
-import Rendering from './Components/Rendering/Rendering.jsx';
-import './Pages/Contact.jsx'
+// import Usestate from './Components/ReactHooks/Usestate.jsx'
+// import ReactRoot from './Components/ReactRoot/ReactRoot';
+// import Rendering from './Components/Rendering/Rendering.jsx';
+import Useref from './Components/UseRef/Useref.jsx';
+// import './Pages/Contact.jsx'
 
 
 
@@ -15,7 +16,8 @@ function App() {
     {/* <ReactRoot/> */}
     {/* <Usestate/> */}
     {/* <Rendering/> */}
-    <Operator/>
+    {/* <Operator/> */}
+    <Useref/>
 
       </>
   )
