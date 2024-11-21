@@ -1,4 +1,5 @@
 import './App.css'
+import Operator from './Components/Operators/Operator.jsx';
 
 import Usestate from './Components/ReactHooks/Usestate.jsx'
 import ReactRoot from './Components/ReactRoot/ReactRoot';
@@ -13,7 +14,8 @@ function App() {
     <>
     {/* <ReactRoot/> */}
     {/* <Usestate/> */}
-    <Rendering/>
+    {/* <Rendering/> */}
+    <Operator/>
 
       </>
   )

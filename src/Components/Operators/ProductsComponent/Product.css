@@ -1,0 +1,4 @@
+*{padding: 0; margin: 0;}
+ul{margin-bottom: 1em;padding: 1em;background-color: white; border-radius: 1em;border: 2px solid grey;}
+ul:hover{border: 2px solid blue;}
+body{background-color: #53affb; margin: 1em;}
